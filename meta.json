@@ -1,0 +1,224 @@
+{
+  "best_model": "XGBoost",
+  "test_r2": 0.8311,
+  "cities_used": [
+    "Bangalore",
+    "Bhiwadi",
+    "Bhopal",
+    "Bhubaneswar",
+    "Chandigarh",
+    "Chennai",
+    "Coimbatore",
+    "Dehradun",
+    "Faridabad",
+    "Gandhinagar",
+    "Ghaziabad",
+    "Goa",
+    "Gurgaon",
+    "Guwahati",
+    "Indore",
+    "Jaipur",
+    "Jamshedpur",
+    "Kanpur",
+    "Kochi",
+    "Kolkata",
+    "Lalitpur",
+    "Lucknow",
+    "Maharashtra",
+    "Mangalore",
+    "Mohali",
+    "Mumbai",
+    "Nagpur",
+    "Noida",
+    "Other",
+    "Palghar",
+    "Panchkula",
+    "Patna",
+    "Pune",
+    "Raipur",
+    "Ranchi",
+    "Secunderabad",
+    "Siliguri",
+    "Sonipat",
+    "Surat",
+    "Vadodara",
+    "Visakhapatnam"
+  ],
+  "posted_by_options": [
+    "Builder",
+    "Dealer",
+    "Owner"
+  ],
+  "bhk_or_rk_options": [
+    "BHK",
+    "RK"
+  ],
+  "city_coords": {
+    "Bangalore": {
+      "LATITUDE": 77.7199,
+      "LONGITUDE": 13.9325
+    },
+    "Bhiwadi": {
+      "LATITUDE": 76.8357,
+      "LONGITUDE": 28.1421
+    },
+    "Bhopal": {
+      "LATITUDE": 77.4599,
+      "LONGITUDE": 23.1222
+    },
+    "Bhubaneswar": {
+      "LATITUDE": 85.7551,
+      "LONGITUDE": 20.3059
+    },
+    "Chandigarh": {
+      "LATITUDE": 76.8463,
+      "LONGITUDE": 30.6472
+    },
+    "Chennai": {
+      "LATITUDE": 80.4163,
+      "LONGITUDE": 13.3853
+    },
+    "Coimbatore": {
+      "LATITUDE": 77.0116,
+      "LONGITUDE": 11.4502
+    },
+    "Dehradun": {
+      "LATITUDE": 68.9185,
+      "LONGITUDE": 30.7916
+    },
+    "Faridabad": {
+      "LATITUDE": 77.3422,
+      "LONGITUDE": 28.401
+    },
+    "Gandhinagar": {
+      "LATITUDE": 72.609,
+      "LONGITUDE": 23.1763
+    },
+    "Ghaziabad": {
+      "LATITUDE": 77.0058,
+      "LONGITUDE": 28.3366
+    },
+    "Goa": {
+      "LATITUDE": 67.9362,
+      "LONGITUDE": 18.6862
+    },
+    "Gurgaon": {
+      "LATITUDE": 77.017,
+      "LONGITUDE": 28.4257
+    },
+    "Guwahati": {
+      "LATITUDE": 91.2163,
+      "LONGITUDE": 26.2344
+    },
+    "Indore": {
+      "LATITUDE": 66.5307,
+      "LONGITUDE": 23.9903
+    },
+    "Jaipur": {
+      "LATITUDE": 75.8296,
+      "LONGITUDE": 26.7841
+    },
+    "Jamshedpur": {
+      "LATITUDE": 85.9805,
+      "LONGITUDE": 22.8838
+    },
+    "Kanpur": {
+      "LATITUDE": 80.1216,
+      "LONGITUDE": 26.6389
+    },
+    "Kochi": {
+      "LATITUDE": 76.3418,
+      "LONGITUDE": 9.976
+    },
+    "Kolkata": {
+      "LATITUDE": 87.1148,
+      "LONGITUDE": 22.6686
+    },
+    "Lalitpur": {
+      "LATITUDE": 75.5997,
+      "LONGITUDE": 22.0678
+    },
+    "Lucknow": {
+      "LATITUDE": 79.0781,
+      "LONGITUDE": 25.7356
+    },
+    "Maharashtra": {
+      "LATITUDE": 73.3029,
+      "LONGITUDE": 19.2294
+    },
+    "Mangalore": {
+      "LATITUDE": 74.9788,
+      "LONGITUDE": 13.3998
+    },
+    "Mohali": {
+      "LATITUDE": 76.7112,
+      "LONGITUDE": 30.6717
+    },
+    "Mumbai": {
+      "LATITUDE": 72.0553,
+      "LONGITUDE": 19.9422
+    },
+    "Nagpur": {
+      "LATITUDE": 79.0298,
+      "LONGITUDE": 21.1863
+    },
+    "Noida": {
+      "LATITUDE": 77.0855,
+      "LONGITUDE": 28.4686
+    },
+    "Other": {
+      "LATITUDE": 76.5468,
+      "LONGITUDE": 21.1606
+    },
+    "Palghar": {
+      "LATITUDE": 72.9198,
+      "LONGITUDE": 19.6979
+    },
+    "Panchkula": {
+      "LATITUDE": 76.8563,
+      "LONGITUDE": 30.6705
+    },
+    "Patna": {
+      "LATITUDE": 84.8967,
+      "LONGITUDE": 25.4954
+    },
+    "Pune": {
+      "LATITUDE": 73.7738,
+      "LONGITUDE": 18.911
+    },
+    "Raipur": {
+      "LATITUDE": 80.8094,
+      "LONGITUDE": 22.6336
+    },
+    "Ranchi": {
+      "LATITUDE": 83.9398,
+      "LONGITUDE": 23.4459
+    },
+    "Secunderabad": {
+      "LATITUDE": 78.8603,
+      "LONGITUDE": 17.9452
+    },
+    "Siliguri": {
+      "LATITUDE": 85.9594,
+      "LONGITUDE": 26.7159
+    },
+    "Sonipat": {
+      "LATITUDE": 77.1096,
+      "LONGITUDE": 28.8701
+    },
+    "Surat": {
+      "LATITUDE": 73.1918,
+      "LONGITUDE": 21.5514
+    },
+    "Vadodara": {
+      "LATITUDE": 73.4152,
+      "LONGITUDE": 22.346
+    },
+    "Visakhapatnam": {
+      "LATITUDE": 82.8536,
+      "LONGITUDE": 17.6826
+    }
+  },
+  "sqft_min": 375.01054555892,
+  "sqft_max": 5157.593001417601
+}
